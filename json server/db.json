@@ -1,0 +1,88 @@
+{
+    "naturales": [{
+            "id": "01",
+            "nombre": "montañas odle",
+            "pais": "italia",
+            "img": "assets/img/naturaleza/01.jpg",
+            "descripcion": "El perfil de las montañas Odle, en Italia, forman uno de los parajes más desafiantes que podemos encontrar en las Dolomitas. Escarpadas, con tremendos acantilados y unas paredes de vértigo, este conjunto montañoso parece haber sido moldeado por las manos de un gigante."
+        },
+        {
+            "id": "02",
+            "nombre": "cappadocia",
+            "pais": "turquia",
+            "img": "assets/img/naturaleza/02.jpg",
+            "descripcion": "La mejor forma de disfrutar de los paisajes lunares que ofrece la Cappadocia, en Turquía, es subiéndonos a un globo aerostático. Las vistas son una verdadera fantasía. La naturaleza ha moldeado a su antojo valles enteros de depresiones y barrancos, que parecen salidos de un cuento de hadas. A vista de pájaro, el paisaje nos deja sin palabras."
+        },
+        {
+            "id": "03",
+            "nombre": "volcán Etna",
+            "pais": "sicilia",
+            "img": "assets/img/naturaleza/03.jpg",
+            "descripcion": "La furia de la naturaleza se palpa en uno de los volcanes más activos del mundo, el Etna. Situada al norte de Sicilia, esta montaña de fuego ofrece un paraje intimidante y lleno de peligros para los curiosos que se atreven a acercarse."
+        },
+        {
+            "id": "04",
+            "nombre": "la ola",
+            "pais": "estados unidos",
+            "img": "assets/img/naturaleza/04.jpg",
+            "descripcion": "Existen paisajes naturales cuya belleza es capaz de marearnos. Un ejemplo es la conocida como la Ola del desierto de Utah, en Arizona. Las ondas de este paisaje jurásico recorren las rocas areniscas formando un paraje inverosímil que atrae a curiosos y fotógrafos."
+        },
+        {
+            "id": "13",
+            "nombre": "perito moreno",
+            "pais": "argentina",
+            "img": "assets/img/naturaleza/13.jpg",
+            "descripcion": "Otro paisaje que nos deja atónitos es el Glaciar Perito Moreno. Una gigantesca mole de hielo que se extiende con un frontal de cinco kilómetros de largo por 60 de alto. Situada en el Parque Nacional de Los Glaciares, en Argentina, no sólo su imagen es intimidante, sino también su sonido."
+        },
+        {
+            "id": "06",
+            "nombre": "mariposa grove",
+            "pais": "estados unidos",
+            "img": "assets/img/naturaleza/06.jpg",
+            "descripcion": "Pasear entre las secuoyas gigantes de Mariposa Grove, en el Parque Nacional de Yosemite, nos hace sentir como si fuéramos enanitos. Estos colosales árboles nos obligan a levantar la mirada hacia las nubes para poder localizar su terminación. Son árboles que han visto pasar los siglos de historia ante ellos: algunos superan los 3.000 años de vida."
+        }
+    ],
+    "ciudades": [{
+            "id": "kyoto",
+            "ciudad": "kyoto",
+            "pais": "japón",
+            "img": "assets/img/ciudades/kyoto.jpg",
+            "descripcion": "El tiempo parece haberse quedado congelado en Kyoto. Esta antigua capital de Japón mezcla el encanto de una ciudad clásica, en donde sus habitantes aún visten kimono, con barrios más modernos. Es de las pocas ciudades que no fue bombardeada durante la Segunda Guerra Mundial."
+        },
+        {
+            "id": "croacia",
+            "ciudad": "dubrovnik",
+            "pais": "croacia",
+            "img": "assets/img/ciudades/croacia.jpg",
+            "descripcion": "Fue una de las ciudades que más sufrió con la Guerra de Los Balcanes, haciendo que fuera duramente bombardeada. A pesar de las heridas, esta ciudad europea ha sabido recuperar la antigua belleza que le caracteriza. Considerada como “La perla del Adriático”."
+        },
+        {
+            "id": "ciudad_praga",
+            "ciudad": "praga",
+            "pais": "república checa",
+            "img": "assets/img/ciudades/ciudad_praga.jpg",
+            "descripcion": "Esta ciudad de cuento es una de las más bonitas de Europa, y no sólo por su arquitectura, sino por su especial sensibilidad para el arte. De ella han salido extraordinarios músicos, escritores y cineastas responsables de que hayan otorgado a la ciudad ese toque bohemio que le caracteriza."
+        },
+        {
+            "id": "hongkong",
+            "ciudad": "hong kong",
+            "pais": "japón",
+            "img": "assets/img/ciudades/hongkong.jpeg",
+            "descripcion": "El skyline de Hong Kong es espectacular. Numerosos rascacielos peinan el cielo que cubre la ciudad. Y al llegar la noche la cosa cambia incluso para mejor: Ignacio, viajero de minube, nos cuenta que en el muelle de Tsim Sha Tsui Este todas las noches se hace un espectáculo de luz y sonido en el que los edificios de la isla de Hong Kong se iluminan al compás de la música."
+        },
+        {
+            "id": "berlin",
+            "ciudad": "berlin",
+            "pais": "alemania",
+            "img": "assets/img/ciudades/berlin.jpeg",
+            "descripcion": "Berlín es uno de los destinos más de moda de Europa. Su catedral o la Puerta de Brandeburgo son monumentos con una gran carga cultural e histórica y, está claro, preciosos. Por las noches también, pero si es en octubre todavía son más espectaculares."
+        },
+        {
+            "id": "seattle",
+            "ciudad": "seattle",
+            "pais": "estados unidos",
+            "img": "assets/img/ciudades/seattle.jpeg",
+            "descripcion": "Una imagen típica de Estados Unidos de noche es la de Nueva York. Su horizonte iluminado o los neones de Times Square son una imagen que todo el mundo reconoce. Pero EEUU es muy grande y ésta no es la única ciudad del país que puede presumir de ganar puntos al anochecer."
+        }
+    ]
+}
